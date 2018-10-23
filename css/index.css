@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+}
+
+header{
+    background: green;
+    padding: 1em;
+    color: white;
+}
+
+header h1{
+    display: inline;
+}
+
+.form-control{
+    display: inline;
+    width: 70%;
+}
+
+.container{
+    margin-top: 1em;
+}
+
+.search-results{
+    margin-bottom: 2em;
+}
